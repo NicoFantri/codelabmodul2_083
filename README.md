@@ -1,4 +1,6 @@
 # colabmodul2fix
+nama : NICO FANTRI MAYHARIS 
+NIM : 202210370311083 
 
 A new Flutter project.
 
